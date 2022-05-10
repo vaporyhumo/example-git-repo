@@ -6,7 +6,7 @@ Five different places or stages or statuses that a file can have/live with
 
 The git repo is not tracking this file, it's like it didn't exist
 
-# Staged Files
+# Staasdjfkl:asjdkl:fjaksl:dfhdfjglkshlged Files
 
 When we use git add, we say that a file is about to be commited
 
